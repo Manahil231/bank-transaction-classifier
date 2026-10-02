@@ -2,7 +2,7 @@
 
 A end-to-end Machine Learning project. It takes the details of a bank transaction and predicts whether it is a **Withdrawal** or a **Deposit**. The final model is served through a **Streamlit** web app.
 
-**Live app:** LIVE_APP_LINK_HERE
+**Live app:** https://bank-transaction-classifier-ruexnpss54x2hcervxr6yb.streamlit.app/
 
 ---
 
