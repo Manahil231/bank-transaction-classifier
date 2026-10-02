@@ -1,0 +1,9 @@
+Date,Account_ID,Transaction_Type,Amount,Branch
+2026-03-08,A007,Withdrawal,19500,Karachi
+2026-03-08,A004,Deposit,10000,Karachi
+2026-03-08,A004,Deposit,27500,Karachi
+2026-03-08,A002,Withdrawal,48000,Lahore
+2026-03-08,A004,Deposit,63500,Karachi
+2026-03-08,A006,Withdrawal,27500,Islamabad
+2026-03-08,A003,Withdrawal,48500,Islamabad
+2026-03-08,A010,Withdrawal,7000,Karachi
